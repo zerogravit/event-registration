@@ -1,0 +1,172 @@
+.body {
+    background-color: lightslategrey;
+   
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+}
+
+.satauri{
+    text-align: center;
+    background-color: yellowgreen;
+    height: 50px;
+    border-bottom-left-radius: unset;
+    border-top-right-radius: 0.7em;
+    border-top-left-radius: 00.7em;
+    background-color: black;
+    color:white;
+    padding-top: 2pt;
+    padding-bottom: 2pt;
+
+}
+.forma{
+    width: 600px;
+    margin-left: 350px; 
+    background-color: white;
+    border-radius: 0.7em;
+    
+}
+.name {
+    font-weight: bold;
+    padding-left: 20pt;
+    
+
+
+}
+.taro1 {
+    width: 180px;
+    height: 30px;
+    margin-top: 20px;
+     /*border-color: lightgray;*/
+    background-color: #E4E5DA;
+    border: none;
+    border-radius: 0.35em;
+}
+.tsing {
+    font-size: 12px;
+    color: #9999;
+    padding-top: 5pt;
+}
+.taro2 {
+    width: 180px;
+    height: 30px;
+    margin-top: 22px;
+    padding-left: 5pt;
+    /*border-color: lightgray;*/
+    background-color: #E4E5DA;
+    border: none;
+    border-radius: 0.35em;
+    margin-left: -180pt;
+}
+.tsing2{
+    font-size: 12px;
+    color: #9999;
+    margin-left: -180pt;
+    padding-top: 5pt;
+
+}
+.comp {
+    font-weight: bold;
+    padding-left: 20pt;
+}
+.taro3 {
+    display: inline-block;
+    padding-left: 30pt;
+    width: 80%;
+    height: 30px;
+    margin-left: 30pt;
+    padding-left: 30pt;
+    /*border-color: lightgray;*/
+    background-color: #E4E5DA;
+    border: none;
+    border-radius: 0.35em;
+}
+.ema {
+    font-weight: bold;
+    padding-left: 20pt; 
+    padding-top: 15pt;
+}
+.taro4{
+    width: 80% ;
+    height: 30px;
+    margin-top: 20pt;
+    background-color: #E4E5DA;
+    border: none;
+    border-radius: 0.35em;
+    padding-left: 30pt;
+    margin-left: 30pt;
+}
+.pho {
+    font-weight: bold;
+    padding-left: 20pt; 
+}
+.taro5{
+    background-color: #E4E5DA;
+    padding-left: 30pt;
+    width: 25pt;
+    height: 30px;
+    border: none;
+    border-radius: 0.35em;
+    margin-top: 10pt;
+}
+.tsing4{
+    font-size: 12px;
+    color: #9999;
+    padding-top: 5pt;
+}
+.taro6{
+    background-color: #E4E5DA;
+    margin-left: -260pt;
+    
+    display: inline-block;
+    width: 293px;
+   
+   
+    height: 30px;
+    border: none;
+    border-radius: 0.35em;
+    margin-top: 10pt;
+
+}
+.tsing5 {
+    font-size: 12px;
+    color: #9999 ;
+    margin-left: -260pt;
+    padding-top: 5pt;
+}
+.sub{
+    font-weight: bold;
+    padding-left: 20pt; 
+}
+#opinion{
+    background-color: #E4E5DA;
+    width: 400px;
+    margin-left: 30pt;
+    display: inline-block ;
+    
+    height: 35px;
+    border: none;
+    border-radius: 0.35em;
+    
+}
+/*.are {
+    font-weight: bold;
+    padding-left: 20pt; 
+    margin-top: 30pt;
+}*/
+.kit {
+    font-weight: bold;
+    padding-left: 20pt; 
+    margin-top: 30pt;
+}
+.butt{
+    height: 40px;
+    margin-bottom: 30pt;
+    margin-top: 5pt;
+    margin-left: 28pt;
+    width: 150px;
+    background-color: #FF3F3F;
+    color: white;
+    border: none;
+    border-radius: 0.35em;
+    margin-top: 10pt;
+}
